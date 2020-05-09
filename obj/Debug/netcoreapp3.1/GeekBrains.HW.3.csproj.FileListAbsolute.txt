@@ -1,0 +1,13 @@
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.csprojAssemblyReference.cache
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.csproj.CoreCompileInputs.cache
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.AssemblyInfoInputs.cache
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.AssemblyInfo.cs
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.exe
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.deps.json
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.runtimeconfig.json
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.runtimeconfig.dev.json
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.dll
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\bin\Debug\netcoreapp3.1\GeekBrains.HW.3.pdb
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.dll
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.pdb
+C:\Users\pgrigsch\source\repos\GeekBrains.HW.3\obj\Debug\netcoreapp3.1\GeekBrains.HW.3.genruntimeconfig.cache
